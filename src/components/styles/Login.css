@@ -1,0 +1,18 @@
+.wrapper{
+    height: 100vh;
+}
+.login{
+    width: 50vh;
+    height:min-content;
+    border-radius: 10px;
+    color: black;
+    padding: 20px;
+    background-color: rgb(207, 225, 240);
+}
+.headline{
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-text{
+    text-align: center;
+    font-family:italic;
+}
